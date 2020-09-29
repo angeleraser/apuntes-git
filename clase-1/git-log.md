@@ -8,3 +8,5 @@ Muestra el historial con un formato
 %ar Tiempo relativo a la realizacion del commit
 %s El mensaje del commit
 
+#Modificacion prueba
+
