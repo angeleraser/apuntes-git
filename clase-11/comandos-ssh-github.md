@@ -17,6 +17,8 @@ Usando Git Bash seguir los siguientes pasos:
 
  5. Usar el comando `cat "ruta de la llave"`.
  Con este comando se puede ver el contenido del archivo, copiamos todo el texto que nos muestra.
- 
+
  6. Ir a las configuraciones del perfil de Github y agregar una nueva llave SSH con el contenido que hemos copiado de `github-rsa.pub`.
+
+ Push desde SourceTree
 
